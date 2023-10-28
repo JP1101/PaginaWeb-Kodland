@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1c1c1c;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 20px;
+    color: #5dbb63; /* Color verde */
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.Container {
+    background-color: #333;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    margin: 20px auto; 
+    width: 65%;
+}
+
+h3 {
+    font-size: 24px;
+    margin: 10px 0;
+    color: #5dbb63; /* Color verde */
+}
+
+p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+ul.Steps {
+    list-style: none;
+    padding: 0;
+}
+
+ul.Steps li {
+    margin: 10px 0;
+}
+
+.Icon {
+    font-size: 20px;
+}
